@@ -5,4 +5,5 @@ A simple Python gui that takes alpha masks and images (with same naming conventi
 Dependencies ...
 
 OpenCV
+
 Pillow
